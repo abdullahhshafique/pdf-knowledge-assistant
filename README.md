@@ -9,7 +9,7 @@ AI Engineer · FastAPI · Groq · React
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-4f6ef7?style=for-the-badge&logo=vercel)](https://pdf-knowledge-assistant.vercel.app)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-aadi--abdullah-181717?logo=github)](https://github.com/aadi-abdullah)
+[![GitHub](https://img.shields.io/badge/GitHub-aadi--abdullah-181717?logo=github)](https://github.com/abdullahhshafique)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aadi--abdullah-0A66C2?logo=linkedin)](https://www.linkedin.com/in/aadi-abdullah)
 
@@ -148,7 +148,7 @@ pdf-knowledge-assistant/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/aadi-abdullah/pdf-knowledge-assistant.git
+git clone https://github.com/abdullahhshafique/pdf-knowledge-assistant.git
 cd pdf-knowledge-assistant
 
 # 2. Backend setup
@@ -247,7 +247,7 @@ I'm an AI Engineer with a background in design — I spent 6 years as a professi
 
 **Currently open to AI engineering internships and junior roles.**
 
-→ [LinkedIn](https://www.linkedin.com/in/aadi-abdullah) · [GitHub](https://github.com/aadi-abdullah) · abdullahshafique2019@gmail.com
+→ [LinkedIn](https://www.linkedin.com/in/aadi-abdullah) · [GitHub](https://github.com/abdullahhshafique) · abdullahhshafique@outlook.com
 
 ---
 
